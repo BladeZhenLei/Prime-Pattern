@@ -1,5 +1,5 @@
 ***
-** Wonderful Demlo Numbers
+## Wonderful Demlo Numbers
 1. $$11^2 + 10$$
 2. $$111^2 + 100$$
 3. $$1111^2 + 1000$$
